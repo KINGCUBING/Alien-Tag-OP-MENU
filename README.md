@@ -7,4 +7,4 @@ Im gonna keep updating to menu so be on the lookout for new updates.
 
 If Alien Tag gets the 1.3 brain cells needed to make a decent AntiCheat it will be bypassed so dont worry about this getting patched it wont.
 
-This Menu is i side proj so its not my main project so there wont be a ton of updates.
+This Menu is a side proj its not my main project so there wont be a ton of updates.
