@@ -1,3 +1,13 @@
+FIX FOR THE NEW UPDATE : DOWNLOAD THE FIXED ALIEN TAG AND USE MELON LOADER ON THAT FILE. DONT USE STEAM VER IM WORKING ON A BYPASS NOW
+
+THIS WILL GET PATCH FAST BUT I WILL HAVE A BYPASS OUT BY THEN THANKS!
+
+PS you dont need to launch from steam the menu alr auths you
+
+il2cpp unity explorer: https://github.com/GrahamKracker/UnityExplorer
+
+
+
 this is a mod for melon loader just drop it into mod folder
 
 DONT CHANGE TO NAME STRING IN THE MENU ITS TO GIVE ME CRED FOR THE MENU IF YOU REMOVE IT YOU ARE A SKID!! 😡
