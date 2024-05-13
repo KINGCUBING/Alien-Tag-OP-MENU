@@ -1,12 +1,14 @@
 FIX FOR THE NEW UPDATE : DOWNLOAD THE FIXED ALIEN TAG AND USE MELON LOADER ON THAT FILE. DONT USE STEAM VER IM WORKING ON A BYPASS NOW
 
-THIS WILL GET PATCH FAST BUT I WILL HAVE A BYPASS OUT BY THEN THANKS!
+THIS WILL GET PATCHED FAST BUT I WILL HAVE A BYPASS OUT BY THEN THANKS!
+
+Fixed Alien Tag Download link NEED WINRAR OR 7ZIP : https://www.mediafire.com/file/az5dygjqhpwwzcn/Alien+Tag+fix.zip/file
 
 PS you dont need to launch from steam the menu alr auths you
 
 il2cpp unity explorer: https://github.com/GrahamKracker/UnityExplorer
 
-Fixed Alien Tag Download link NEED WINRAR OR 7ZIP : https://www.mediafire.com/file/az5dygjqhpwwzcn/Alien+Tag+fix.zip/file
+
 
 
 this is a mod for melon loader just drop it into mod folder
