@@ -9,13 +9,15 @@ PS you dont need to launch from steam the menu alr auths you
 il2cpp unity explorer: https://github.com/GrahamKracker/UnityExplorer
 
 
-
+Btw Thx J0kerModz for some code. <3
 
 this is a mod for melon loader just drop it into mod folder
 
 DONT CHANGE TO NAME STRING IN THE MENU ITS TO GIVE ME CRED FOR THE MENU IF YOU REMOVE IT YOU ARE A SKID!! 😡
 
-I MADE FLING ALL FIRST DONT SKID WITHOUT GIVING CRED IM TALKING TO YOU JOKERMODZ 😡
+I MADE FLING ALL FIRST DONT SKID WITHOUT GIVING CRED!!!
+
+
 Im gonna keep updating to menu so be on the lookout for new updates.
 
 If Alien Tag gets the 1.3 brain cells needed to make a decent AntiCheat it will be bypassed so dont worry about this getting patched it wont.
