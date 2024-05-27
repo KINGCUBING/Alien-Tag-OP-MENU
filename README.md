@@ -1,5 +1,5 @@
 
-PEOPLE ARE STARTING TO SKID THE MENU KNOW SKIDDERS : { bob123 yt: https://www.youtube.com/@bob123OnTop }
+PEOPLE ARE STARTING TO SKID THE MENU KNOWN SKIDDERS : { bob123 yt: https://www.youtube.com/@bob123OnTop }
 
 yea this menu is open src but it sucks that people cant make there own stuff.
 
